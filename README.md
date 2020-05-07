@@ -22,7 +22,7 @@ Hands on Practice for Redux State Management covering the basic redux concepts
 
 ## Installation
 
-`git clone https://github.com/imranhsayed/redux-workshop`
+`git clone https://github.com/shugaProm/redux-practice.git`
 
 `cd redux-workshop`
 
