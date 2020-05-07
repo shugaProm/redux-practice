@@ -14,15 +14,15 @@ Hands on Practice for Redux State Management covering the basic redux concepts
 
 ## Branch Details
 
-1. :department_store: [1-basic-redux-store]() Basic Redux store without using React. Find all code in src/store.js
-2. :ship: [2-combine-multiple-reducers]() Example for multiple reducers
-3. :rocket: [3-synchronous-actions-with-redux]() Synchronous Actions
-4. :airplane: [4-asynchronous-actions-with-redux]() Handling asynchronous actions with redux
-5. :anchor: [5-redux-with-react]() Using Redux store for data in React Components
+1. [1-basic-redux-store]() Basic Redux store without using React. Find all code in src/store.js
+2. [2-combine-multiple-reducers]() Example for multiple reducers
+3. [3-synchronous-actions-with-redux]() Synchronous Actions
+4. [4-asynchronous-actions-with-redux]() Handling asynchronous actions with redux
+5. [5-redux-with-react]() Using Redux store for data in React Components
 
 ## Installation
 
-`git clone https://github.com/imranhsayed/redux-workshop`
+`git clone https://github.com/shugaProm/redux-practice.git`
 
 `cd redux-workshop`
 
