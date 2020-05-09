@@ -18,7 +18,7 @@ This is a Redux in a bid to learn Redux state management
 2. [combine-multiple-reducers](https://github.com/shugaProm/redux-practice/tree/combine-multiple-reducers) Example for multiple reducers
 3. [synchronous-actions-with-redux](https://github.com/shugaProm/redux-practice/tree/sychronous-actions-with-redux) Synchronous Actions
 4. [asynchronous-actions-with-redux](https://github.com/shugaProm/redux-practice/tree/asynchronous-actions-with-redux) Handling asynchronous actions with redux
-5. [redux-with-react](https://github.com/shugaProm/redux-practice/tree/redux-with-react) Using Redux store for data in React Components
+5. [redux-with-react](https://github.com/shugaProm/redux-practice/blob/basic-redux-store) Using Redux store for data in React Components
 
 ## Installation
 
