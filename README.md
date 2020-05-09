@@ -24,7 +24,7 @@ This is a Redux in a bid to learn Redux state management
 
 `git clone https://github.com/shugaProm/redux-practice`
 
-`cd redux-workshop`
+`cd redux-practice`
 
 `git checkout branch-name`
 
